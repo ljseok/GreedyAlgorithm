@@ -1,4 +1,4 @@
-n,k = map(int,input().split)
+n, k = map(int,input().split())
 result = 0
 
 while n >= k: # n이 k이상이면
